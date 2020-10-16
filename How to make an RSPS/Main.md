@@ -37,7 +37,7 @@ IntelliJ can download JDKs for you from within its UI. We'll get more into Intel
 
 ### 3.2 IDE
 There are two popular choices often used in the RSPS scene that we will treat in this tutorial:
-1. [IntelliJ IDEA](): A refined IDE that has a free and paid version
-2. [Eclipse](): A slightly less refined IDE that is free
+1. [IntelliJ IDEA](IntelliJ.md): A refined IDE that has a free and paid version
+2. [Eclipse](Eclipse.md): A slightly less refined IDE that is free
 
 Click on one to see the IDE specific part of this tutorial.
