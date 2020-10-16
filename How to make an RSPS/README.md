@@ -1,4 +1,4 @@
-# How to host an RSPS
+# [⬅](../README.md) How to host an RSPS
 RSPS (RuneScape Private Server) is the emulation of RuneScape as a third party. It consists of a (modified) client written by JaGeX in Java and a server that controls that client, created by the RSPS community, mostly also written in Java.
 
 There are many different servers out there that all have their own way of doing things and you will encounter a plethora of bugs and missing features as you get familiar with the scene.

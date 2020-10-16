@@ -1,4 +1,4 @@
-# Hosting an RSPS: IntelliJ
+# [⬅](README.md) Hosting an RSPS: IntelliJ
 In this part we'll be using IntelliJ to set up our RSPS project. The free edition of IntelliJ (IntelliJ Community Edition) is more than enough for RSPS. You can download it [here](https://www.jetbrains.com/idea/download). The paid version gives more integrations with frameworks and other tools which you don't need.
 
 ## Creating the project structure
